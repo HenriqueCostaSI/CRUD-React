@@ -2,10 +2,10 @@ import './Nav.css'
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-export default props =>
+const Nav = props => (
     <aside className="menu-area">
         <nav className="menu">
-            {/* Refatorar em casa! */}
+        
             <Link to="/">
                 <i className="fa fa-home"></i> Início
             </Link>
@@ -14,3 +14,6 @@ export default props =>
             </Link>
         </nav>
     </aside>
+)
+
+export default Nav   
