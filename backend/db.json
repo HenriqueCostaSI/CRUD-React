@@ -1,54 +1,30 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "João Silva",
-            "email": "joao.silva@example.com"
-        },
-        {
-            "id": 2,
-            "name": "Ana Pereira",
-            "email": "ana.pereira@example.com"
-        },
-        {
-            "id": 3,
-            "name": "Carlos Souza",
-            "email": "carlos.souza@example.com"
-        },
-        {
-            "id": 4,
-            "name": "Mariana Lima",
-            "email": "mariana.lima@example.com"
-        },
-        {
-            "id": 5,
-            "name": "Pedro Santos",
-            "email": "pedro.santos@example.com"
-        },
-        {
-            "id": 6,
-            "name": "Fernanda Costa",
-            "email": "fernanda.costa@example.com"
-        },
-        {
-            "id": 7,
-            "name": "Ricardo Almeida",
-            "email": "ricardo.almeida@example.com"
-        },
-        {
-            "id": 8,
-            "name": "Juliana Ferreira",
-            "email": "juliana.ferreira@example.com"
-        },
-        {
-            "id": 9,
-            "name": "Roberto Nunes",
-            "email": "roberto.nunes@example.com"
-        },
-        {
-            "id": 10,
-            "name": "Patrícia Mendes",
-            "email": "patricia.mendes@example.com"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao.silva@example.com"
+      },
+    {
+      "id": 2,
+      "name": "Ana Pereira",
+      "email": "ana.pereira@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Souza",
+      "email": "carlos.souza@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Mariana Lima",
+      "email": "mariana.lima@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Santos",
+      "email": "pedro.santos@example.com"
+    }
+    
+  ]
 }
